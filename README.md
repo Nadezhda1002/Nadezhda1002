@@ -4,6 +4,5 @@
 - 🌱 I would like to work in a strong team and do interesting projects.
 - ⚡ Languages and Tools: Python, SQL, Tableau, Jupyter Notebook.
 - 📫 How to reach me: 
-- Skype: n.s.vysotskaya,
-- Telegram: @Vys_n_s
+Telegram: @Vys_n_s
 
